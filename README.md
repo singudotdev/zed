@@ -1,0 +1,2 @@
+# zed
+Zed Configuration
