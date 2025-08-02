@@ -7,7 +7,7 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
-  "assistant": {
+  "agent": {
     "default_model": {
       "provider": "copilot_chat",
       "model": "gpt-4"
@@ -15,7 +15,6 @@
     "button": true,
     "dock": "right",
     "enabled": true,
-    "version": "2"
   },
   "soft_wrap": "editor_width",
   "vim_mode": false,
