@@ -5,7 +5,7 @@
       "source": "extension",
       "enabled": true,
       "settings": {
-        "github_personal_access_token": "api_token"
+        "github_personal_access_token": "github_access_token"
       }
     }
   },
@@ -18,6 +18,14 @@
   "autosave": {
     "after_delay": {
       "milliseconds": 1000
+    }
+  },
+  "scrollbar": {
+    "diagnostics": "all"
+  },
+  "diagnostics": {
+    "inline": {
+      "enabled": true
     }
   },
   "minimap": { "show": "always" },
