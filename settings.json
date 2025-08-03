@@ -38,8 +38,8 @@
   "minimap": { "show": "always" },
   "icon_theme": "Catppuccin Macchiato",
   "agent": {
-    "default_view": "text_thread",
-    "single_file_review": true,
+    "default_view": "thread",
+    "single_file_review": false,
     "use_modifier_to_send": false,
     "enable_feedback": false,
     "default_profile": "ask",
