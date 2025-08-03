@@ -18,8 +18,10 @@
       "milliseconds": 1000
     }
   },
+  "minimap": { "show": "always" },
   "icon_theme": "Catppuccin Macchiato",
   "agent": {
+    "default_profile": "ask",
     "default_model": {
       "provider": "copilot_chat",
       "model": "gpt-4o"
