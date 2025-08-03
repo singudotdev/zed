@@ -7,6 +7,17 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "features": {
+    "edit_prediction_provider": "copilot"
+  },
+  "git_panel": {
+    "dock": "right"
+  },
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 1000
+    }
+  },
   "icon_theme": "Catppuccin Macchiato",
   "agent": {
     "default_model": {
@@ -15,7 +26,7 @@
     },
     "button": true,
     "dock": "right",
-    "enabled": true,
+    "enabled": true
   },
   "soft_wrap": "editor_width",
   "vim_mode": false,
@@ -52,6 +63,6 @@
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "Catppuccin Macchiato"
+    "dark": "Catppuccin Macchiato (Blur)"
   }
 }
