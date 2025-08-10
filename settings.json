@@ -45,7 +45,7 @@
     "default_profile": "ask",
     "default_model": {
       "provider": "copilot_chat",
-      "model": "gpt-4o"
+      "model": "claude-sonnet-4"
     },
     "button": true,
     "dock": "right",
@@ -59,7 +59,7 @@
   },
   "terminal": {
     "shell": {
-      "program": "pwsh"
+      "program": "/usr/bin/fish"
     }
   },
   "outline_panel": {
